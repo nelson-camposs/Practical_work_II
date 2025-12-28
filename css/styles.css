@@ -68,16 +68,16 @@ nav a:hover {
 .main-content a {
   display: inline-block;
   padding: 12px 30px;
-  background-color: #8bffc1;
-  color: #000000;
+  background-color: #3b9763;
+  color: white;
   text-decoration: none;
   font-weight: bold;
   border-radius: 25px;
 }
 
 .main-content a:hover {
-  background-color: #3b9763;
-  color:white;
+  background-color: #8bffc1;
+  color:black;
 }
 
 .main-image {
@@ -87,7 +87,7 @@ nav a:hover {
 }
 
 .main-image img {
-  max-width: 380px;
+  max-width: 600px;
   border-radius: 10px;
 }
 
